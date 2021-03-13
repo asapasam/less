@@ -1,0 +1,495 @@
+
+
+.image {
+	position	: relative;
+    justify-content: center;
+}
+
+h2 {
+	position	: absolute;
+	top		: 46px;
+	left		: 248px;
+    width		: 100%;
+    color: white;
+    
+}
+
+p1{
+	position	: absolute;
+	top		: 46px;
+	left		: 1059px;
+    width		: 100%;
+    color: white;
+    
+}
+
+h1{
+    position	: absolute;
+    top: 223px;
+    left: 585px;
+    color: white;
+}
+p2{
+	position	: absolute;
+	top		: 358px;
+    left		:585px ;
+    color: white;
+}
+
+p3{
+    position: absolute;
+    top: 436px;
+    left: 650px;
+}
+.btn{
+    border-radius: 40px;
+}
+
+.image1{
+    margin-top: 100px;
+        position	: relative;
+        left: 18%; 
+        justify-content: center;
+           
+    
+}
+p4,p5,p6{
+    position: absolute;
+    top: 220px;
+    
+    
+}
+p4{
+    left: 15px;
+}
+p5{
+    left: 320px;
+}
+p6{
+    left: 625px;
+}
+
+h3{
+    color: white;
+}
+h6{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ava{
+box-sizing: border-box;
+display: flex;
+flex-wrap: wrap;
+margin: 150px 19%;
+
+}
+p7{
+    position: absolute;
+    margin-left: 606px;
+    margin-top: 50px;
+    font-size: 26px;
+    
+}
+.avatar{
+    margin-left:00px ;
+    margin-right:40px ;
+}
+
+
+.avatar1{
+    margin-right:40px ;
+}
+.avatar2{
+    margin-right:40px ;
+}
+.avatar3{
+    margin-right:40px ;
+}
+
+p8{
+    text-align: center;
+}
+
+p9{
+    font-size: 13px;
+    text-align: center;
+}
+
+p10{
+  
+   margin: 00px 35%;
+}
+.holiday{   
+    width: 1000px;
+    margin: 100px 15%;
+  justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p11,p12,p16,p13,p14,p15,p17{
+    position: absolute;
+    color:white;
+    font-size: 26px;
+}
+p11{
+    margin-top: 200px;
+    margin-left: -650px;
+}
+p12{
+    margin-top: 200px;
+    margin-left: 10px;
+}
+p13{
+    margin-top: 200px;
+    margin-left: 670px;
+}
+p14{
+    margin-top: 500px;
+    margin-left: -650px;
+}
+p15{
+    margin-top: 500px;
+    margin-left: 400px;
+}
+p16{
+    margin-top: 800px;
+    margin-left: -350px;
+}
+p17{
+    margin-top: 800px;
+    margin-left: 620px;
+}
+p18{
+    margin: 0 33%;
+    margin-top: 500px;
+    font-size: 20px;
+
+}
+p19{
+    margin: 25px 33%;
+}
+.btn1{
+    border-radius: 10px;
+}
+
+.text{
+    margin-top: 100px ;
+        display: grid;
+        grid-template-columns: 340px 340px 340px 340px 340px;
+        grid-template-rows: 20px 20px 20px 20px 20px 20px 20px 20px;
+}
+
+main{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+main1{
+    grid-column-start: 3;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+main2{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 2;
+}
+main3{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 3;
+}
+main4{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 4;
+}
+main5{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 5;
+}
+main6{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 6;
+    grid-row-end: 6;
+}
+main7{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 7;
+    grid-row-end: 7;
+
+} 
+.im{
+    margin-left: 70%;
+    margin-top: -150px;
+}
+
+@media screen and (max-width:770px){
+    .image {
+        max-width: 770px;
+        position	: relative;
+        
+    }
+
+    
+    h2 {
+        position	: absolute;
+        top		: 46px;
+        left		: 108px;
+        
+        color: white;
+        
+    }
+    
+    p1{
+        position	: absolute;
+        top		: 46px;
+        left		: 705px;
+        
+        color: white;
+        
+    }
+    
+    h1{
+        position	: absolute;
+        top: 223px;
+        left: 335px;
+        color: white;
+    }
+    p2{
+        position	: absolute;
+        top		: 358px;
+        left		:335px ;
+        color: white;
+    }
+    
+    p3{
+        position: absolute;
+        top: 436px;
+        left: 400px;
+    }
+    .btn{
+        border-radius: 40px;
+    }
+    .image1{
+        width: 760px;
+        margin-top: 100px;
+            position	: relative;
+            left: 6.5%;
+            display: flex;
+            justify-content: space-around;
+            
+    }
+    p4,p5,p6{
+        position: absolute;
+        top: 200px;
+        
+        
+    }
+    p4{
+        left: -50px;
+    }
+    p5{
+        left: 250px;
+    }
+    p6{
+        left: 545px;
+    }
+    
+               
+    p7{
+        position: absolute;
+        margin-left: 240px;
+        margin-top: 50px;
+        font-size: 26px;
+        
+    }
+    .ava{
+        width: 620px;
+        box-sizing: border-box;
+        justify-content: space-around;
+        display: flex;
+        flex-wrap: wrap;
+        margin: 150px 30%;
+    }
+        
+    p10{
+  
+        margin: -100px 45%;
+     }
+     .holiday{
+     
+        margin: 100px -10%;
+     }
+    p18{
+        margin: 0 30%;
+        margin-top: 500px;
+        font-size: 20px;
+    
+    }
+    p19{
+        margin: 25px 30%;
+    }
+
+    .text{
+        margin-top: 100px ;
+            display: grid;
+            grid-template-columns: 240px 240px 240px ;
+            grid-template-rows: 20px 20px 20px 20px 20px 20px 20px 20px;
+}
+.im{
+    margin-left: 85%;
+    margin-top: -150px;
+}
+}
+
+@media screen and (max-width:320px){
+
+    .image {
+        max-width: 1010px;
+        position	: relative;
+        
+    }
+    h2 {
+        position	: absolute;
+        top		: 46px;
+        left		: 48px;
+        color: white;
+        
+    }
+    
+    p1{
+        position	: absolute;
+        top		: 46px;
+        left		: 509px;
+       
+        color: white;
+        
+    }
+    
+    h1{
+        position	: absolute;
+        top: 223px;
+        left: 155px;
+        color: white;
+        font-size: 10px;
+        
+
+    }
+    p2{
+        position	: absolute;
+        top		: 408px;
+        left		:155px ;
+        color: white;
+    }
+    
+    p3{
+        position: absolute;
+        top: 456px;
+        left: 250px;
+    }
+    .btn{
+        border-radius: 40px;
+    }
+    
+    .image1{
+        margin-top: 100px;
+            position	: relative;
+            left: -5%; 
+            display: flex;
+            flex-wrap: wrap;
+            img{
+                size: 101%;
+                width: 850px;
+                height: 320px;
+            }
+
+
+    }
+    p4{
+        margin-top: -50px;
+        left: 50px;
+    }
+    p5{
+        margin-top: 300px;
+        left: 50px;
+    }
+    p6{
+        margin-top: 580px;
+        left: 50px;
+    }
+    p7{
+        position: absolute;
+        margin-left: 0px;
+        margin-top: 50px;
+        font-size: 26px;
+        
+    }
+    p10{
+  
+        margin: -100px 75%;
+     }
+     .holiday{
+        margin: 100px -40%;
+        img{
+            width: 720px;
+            size: 105%;
+        }
+
+     }
+     p11{
+        margin-top: 300px;
+        margin-left: 50px;
+    }
+    p12{
+        margin-top: 1000px;
+        margin-left: 10px;
+    }
+    p13{
+        margin-top: 1800px;
+        margin-left: 50px;
+    }
+    p14{
+        margin-top: 2600px;
+        margin-left: 50px;
+    }
+    p15{
+        margin-top: 3200px;
+        margin-left: 50px;
+    }
+    p16{
+        margin-top: 3600px;
+        margin-left: 50px;
+    }
+    p17{
+        margin-top: 4200px;
+        margin-left: 50px;
+    }
+    p18{
+        margin: 0 3%;
+        margin-top: 500px;
+        font-size: 20px;
+    
+    }
+    p19{
+        margin: 25px 3%;
+    }
+    .im{
+        margin-left: 185%;
+        margin-top: -150px;
+    }
+}
+
+
